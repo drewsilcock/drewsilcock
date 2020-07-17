@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Drew! 👋
 
-<!--
-**drewsilcock/drewsilcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in the UK with a wide interest in things like backend, frontend, data science & game development.
 
-Here are some ideas to get you started:
+- 🌐 Blog: https://drewsilcock.co.uk
+- 📧 Email: contact *at* drewsilcock.co.uk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests:
+
+- Rust 🦀
+- Go
+- React ⚛
+- TypeScript
+- Python 🐍
+- Programming languages 💬
+- Best practices 🙌
+- Continuous integration & deployment 🚀
+- Building modern 12-factor web services ✨
+- Lots of other things!
