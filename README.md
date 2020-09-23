@@ -7,13 +7,13 @@ I'm a software engineer based in the UK with a wide interest in things like back
 
 ### Interests:
 
-- Rust 🦀
-- Go
-- React ⚛
+- 🦀 Rust
+- 🐭 Go
+- ⚛ React
 - TypeScript
-- Python 🐍
-- Programming languages 💬
-- Best practices 🙌
-- Continuous integration & deployment 🚀
-- Building modern 12-factor web services ✨
+- 🐍 Python
+- 💬 Programming languages
+- 🙌 Best practices
+- 🚀 Continuous integration & deployment
+- ✨ Building modern 12-factor web services
 - Lots of other things!
