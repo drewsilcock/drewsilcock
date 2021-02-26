@@ -21,8 +21,8 @@ I'm a software engineer based in the UK with a wide interest in things like back
 ### Stats
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide=Vim%20script" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide=Vim%20script&hide_border=true" />
 </div>
 
 ### Trophies
