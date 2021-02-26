@@ -17,3 +17,14 @@ I'm a software engineer based in the UK with a wide interest in things like back
 - 🚀 Continuous integration & deployment
 - ✨ Building modern 12-factor web services
 - Lots of other things!
+
+### Stats
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewsilcock&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide=Vim%20script" />
+</div>
+
+### Trophies
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=drewsilcock&column=7&theme=onedark&no-frame=true"/>
