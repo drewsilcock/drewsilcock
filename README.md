@@ -2,8 +2,8 @@
 
 I'm a software engineer based in the UK with a wide interest in things like backend, frontend, data engineering & game development.
 
-- 🌐 Blog: https://drewsilcock.co.uk
-- 📧 Email: contact *at* drewsilcock.co.uk
+- 🌐 Blog: https://drew.silcock.dev
+- 📧 Email: drew *located at the domain of* silcock.dev
 
 ### Interests:
 
