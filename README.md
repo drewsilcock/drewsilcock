@@ -9,15 +9,20 @@ I'm a software engineer based in the UK with a wide interest in things like back
 
 - 🦀 Rust
 - 🐭 Go
-- ⚛ React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte Logo" width="18" align="top"> Svelte
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="18" align="bottom"> TypeScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="18" align="bottom"> TypeScript
 - 🐍 Python
+- ⚡ Zig
 - 💬 Programming languages
 - 🙌 Best practices
 - 🚀 Continuous integration & deployment
+- 🎮 Game dev
+- 📊 Data vis
+- 📄 File formats
+- 💽 Data engineering
 - ✨ Building modern 12-factor web services
-- Lots of other things!
+- 🤔 This list is getting way too long
+- ⋯ Lots of other things!
 
 ### Stats
 
